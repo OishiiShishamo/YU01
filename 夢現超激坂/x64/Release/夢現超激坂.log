@@ -1,0 +1,132 @@
+﻿  background.cpp
+  bgm.cpp
+  boss.cpp
+  bullet.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(48,13): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(68,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(68,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(110,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(110,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(146,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(146,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(163,49): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(163,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(175,49): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(175,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(189,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(189,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(204,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(204,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(246,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(246,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(282,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(282,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(299,49): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(299,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(311,49): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(311,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(325,48): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(325,31): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(338,47): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(338,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(385,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(385,22): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(387,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\bullet.cpp(387,22): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  enemy.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(13,28): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(13,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(130,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(130,22): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(133,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\enemy.cpp(133,22): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  fps.cpp
+  init.cpp
+  laser.cpp
+  main.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(134,24): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(134,19): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(163,24): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(163,16): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(585,91): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\main.cpp(585,53): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  option.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\option.cpp(98,90): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\Shishamo\source\repos\夢現超激坂\option.cpp(99,89): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  player.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\player.cpp(83,25): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Shishamo\source\repos\夢現超激坂\player.cpp(83,17): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  text.cpp
+C:\Users\Shishamo\source\repos\夢現超激坂\text.cpp(59,3): warning C4102: 'defaulet': ラベルは 1 度も参照されません。
+  title.cpp
+  toothpick.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76): warning C4244:         ]
+  (ソース ファイル 'toothpick.cpp' をコンパイルしています)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(241,76):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Users\Shishamo\source\repos\夢現超激坂\toothpick.cpp(6,5):
+  	コンパイル対象の関数 テンプレート インスタンス化 '_Ty &std::vector<_Ty,std::allocator<_Ty>>::emplace_back<double,double>(double &&,double &&)' のリファレンスを確認してください
+          with
+          [
+              _Ty=ToothPick
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(862,24):
+  	コンパイル対象の関数 テンプレート インスタンス化 '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<double,double>(double &&,double &&)' のリファレンスを確認してください
+          with
+          [
+              _Ty=ToothPick
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(780,20):
+  	コンパイル対象の関数 テンプレート インスタンス化 '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<double,double>(double &&,double &&)' のリファレンスを確認してください
+          with
+          [
+              _Ty=ToothPick
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(795,13):
+  	コンパイル対象の関数 テンプレート インスタンス化 'void std::_Construct_in_place<ToothPick,_Ty,_Ty>(ToothPick &,_Ty &&,_Ty &&) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Ty=double
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(251,14):
+  	コンパイル対象の関数 テンプレート インスタンス化 '_Ty *std::construct_at<_Ty,double,double,0x0>(_Ty *const ,double &&,double &&) noexcept(<expr>)' のリファレンスを確認してください
+          with
+          [
+              _Ty=ToothPick
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(255,82): warning C4244:         ]
+  (ソース ファイル 'toothpick.cpp' をコンパイルしています)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90): warning C4244: '初期化中': '_Ty' から 'int' への変換です。データが失われる可能性があります。
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90): warning C4244:         ]
+  (ソース ファイル 'toothpick.cpp' をコンパイルしています)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(242,90):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(795,13):
+  	コンパイル対象の関数 テンプレート インスタンス化 'void std::_Construct_in_place<ToothPick,_Ty,_Ty>(ToothPick &,_Ty &&,_Ty &&) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Ty=double
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(251,14):
+  	コンパイル対象の関数 テンプレート インスタンス化 '_Ty *std::construct_at<_Ty,double,double,0x0>(_Ty *const ,double &&,double &&) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Ty=ToothPick
+          ]
+  
+enemy.obj : error LNK2001: 外部シンボル "void __cdecl barrage(double,double,int,int,int,double,int,double,double,int,double,int,int,int,int)" (?barrage@@YAXNNHHHNHNNHNHHHH@Z) は未解決です
+main.obj : error LNK2001: 外部シンボル "void __cdecl ShotLaser(double,double,int,int,double,int,int,double,double,int,int,int,int)" (?ShotLaser@@YAXNNHHNHHNNHHHH@Z) は未解決です
+C:\Users\Shishamo\source\repos\夢現超激坂\x64\Release\夢現超激坂.exe : fatal error LNK1120: 2 件の未解決の外部参照
